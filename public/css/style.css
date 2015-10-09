@@ -1,0 +1,19 @@
+.info-bar {
+    padding-top: 11px;
+}
+.center {
+    text-align: center;
+}
+.right {
+    text-align: right;
+}
+.form-footer {
+    margin-top: 3px;
+}
+#result_container {
+    padding-bottom: 5px;
+    display: none;
+}
+.result_download {
+    text-align: center;
+}

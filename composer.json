@@ -1,0 +1,12 @@
+{
+    "require": {
+        "ext-mongo": ">=0.9.0",
+        "sokil/php-mongo": "dev-master",
+        "fzaninotto/faker": "^1.5"
+    },
+    "autoload": {
+        "psr-0": {
+            "Models": "src/"
+        }
+    }
+}
